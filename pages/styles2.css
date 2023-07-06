@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: cursive;
+}
+
+body{
+    background: linear-gradient(30deg , #212529 ,#3aafa9);
+    height: 100vh;
+}
+
+#question{
+    background: linear-gradient(30deg ,#212529 ,#3aafa9);
+    color: #ffffff;
+}
+
+#correctAns{
+    background: linear-gradient(30deg , #2b7a78 ,#3aafa9);
+    color: #ffffff;
+    max-width: 320px;
+}
+
+#Otherpage a{
+    text-decoration: none;
+    color: white;
+}
+#option{
+    background: linear-gradient(30deg , #212529 ,#3aafa9);
+    color: #ffffff;
+    list-style:none;
+}

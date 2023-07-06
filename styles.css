@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: cursive;
+}
+body{
+    background: linear-gradient(35deg , #212529 ,#3aafa9);
+    height: 100vh;
+}
+
+
+.container{
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+#disQues{
+    background: linear-gradient(25deg ,#2b7a78 ,#3aafa9);
+    color: #212529;
+}
+#Otherpage a{
+    text-decoration: none;
+    color: white;
+}
